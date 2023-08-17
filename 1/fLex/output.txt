@@ -1,0 +1,192 @@
+wrong numbers    wrong location: 1 line
+< num , 12 >
+< num , 1234 >
+< num , 413 >
+< num , 4134 >
+< num , 1 >
+< num , 434 >
+< num , 4 >
+wrong numbers    wrong location: 1 line
+wrong numbers    wrong location: 1 line
+< num , 0.345E+123 >
+< comment , /* 正宗大飞朱 */ >
+< macro , #include "Lex.h" \
+ >
+< num , 123 >
+< macro , #include "Lex.h
+ >
+< char , 'a' >
+< char , '
+' >
+< id , a >
+< char , '\\' >
+< id , Lex >
+unknown character: :    wrong location: 12 line
+unknown character: :    wrong location: 12 line
+< id , Lex >
+< ( , - >
+< id , string >
+< id , name >
+< ) , - >
+< { , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , file_name >
+< operator , = >
+< id , name >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , file_input >
+unknown character: .    wrong location: 15 line
+< id , open >
+< ( , - >
+< id , name >
+< ) , - >
+< ; , - >
+< if , - >
+< ( , - >
+< id , file_input >
+unknown character: .    wrong location: 16 line
+< id , is_open >
+< ( , - >
+< ) , - >
+< operator , == >
+< id , false >
+< ) , - >
+< { , - >
+< id , cout >
+< operator , << >
+double quotes not match    wrong location: 18 line
+< id , open >
+< string , " << endl << " >
+< id , test >
+double quotes not match    wrong location: 19 line
+< id , cout >
+< operator , << >
+< string , "wrong\
+		open" >
+< operator , << >
+< id , endl >
+< operator , << >
+< string , "test" >
+< ; , - >
+< return , - >
+< ; , - >
+< } , - >
+< id , buffer >
+unknown character: .    wrong location: 24 line
+< id , clear >
+< ( , - >
+< ) , - >
+< ; , - >
+< comment , //清空缓存区
+ >
+< id , this >
+< operator , - >
+< operator , > >
+< id , char_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , row_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , col_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , word_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , char_const_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , error_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , identifier_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , punctuator_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , noting_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , string_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , keyword_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , num_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , pre_count >
+< operator , = >
+< num , 0 >
+< ; , - >
+< id , this >
+< operator , - >
+< operator , > >
+< id , is_hex >
+< operator , = >
+< id , false >
+< ; , - >
+< id , InitKeyWord >
+< ( , - >
+< ) , - >
+< ; , - >
+< } , - >
+characters count: 736
+total lines: 45
+word count: 54

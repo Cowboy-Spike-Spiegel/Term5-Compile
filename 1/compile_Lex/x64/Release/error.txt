@@ -1,0 +1,42 @@
+{
+	content  :	12345.
+	dataType :	ERROR
+	position :	(1, 1)
+	description :	number **. ended invalid
+}
+{
+	content  :	0.345E
+	dataType :	ERROR
+	position :	(1, 33)
+	description :	number **E ended invalid
+}
+{
+	content  :	0.345E+
+	dataType :	ERROR
+	position :	(1, 40)
+	description :	number **E+/- ended invalid
+}
+{
+	content  :	'
+	dataType :	ERROR
+	position :	(10, 1)
+	description :	' ended with no character
+}
+{
+	content  :	'a
+	dataType :	ERROR
+	position :	(11, 1)
+	description :	char with no right '
+}
+{
+	content  :	"wrong 
+	dataType :	ERROR
+	position :	(19, 11)
+	description :	string with no right "
+}
+{
+	content  :	";
+	dataType :	ERROR
+	position :	(20, 25)
+	description :	string with no right "
+}

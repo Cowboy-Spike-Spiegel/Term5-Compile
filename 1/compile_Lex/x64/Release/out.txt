@@ -1,0 +1,815 @@
+{
+	content  :	E12
+	dataType :	IDENTIFIER
+	position :	(1, 7)
+}
+{
+	content  :	1234
+	dataType :	NUMBER
+	position :	(1, 11)
+}
+{
+	content  :	413
+	dataType :	NUMBER
+	position :	(1, 16)
+}
+{
+	content  :	4134
+	dataType :	NUMBER
+	position :	(1, 20)
+}
+{
+	content  :	1
+	dataType :	NUMBER
+	position :	(1, 25)
+}
+{
+	content  :	434
+	dataType :	NUMBER
+	position :	(1, 27)
+}
+{
+	content  :	4
+	dataType :	NUMBER
+	position :	(1, 31)
+}
+{
+	content  :	0.345E+123
+	dataType :	NUMBER
+	position :	(1, 48)
+}
+{
+	content  :	/* 正宗大飞朱 */
+	dataType :	NOTE
+	position :	(3, 1)
+}
+{
+	content  :	#include "Lex.h" 123
+	dataType :	PRECOMPLIED
+	position :	(5, 1)
+}
+{
+	content  :	#include "Lex.h
+	dataType :	PRECOMPLIED
+	position :	(7, 1)
+}
+{
+	content  :	'a'
+	dataType :	CHAR
+	position :	(9, 1)
+}
+{
+	content  :	'\'
+	dataType :	CHAR
+	position :	(12, 1)
+}
+{
+	content  :	Lex
+	dataType :	IDENTIFIER
+	position :	(13, 1)
+}
+{
+	content  :	:
+	dataType :	PUNCTUATOR
+	position :	(13, 4)
+}
+{
+	content  :	:
+	dataType :	PUNCTUATOR
+	position :	(13, 5)
+}
+{
+	content  :	Lex
+	dataType :	IDENTIFIER
+	position :	(13, 6)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(13, 9)
+}
+{
+	content  :	string
+	dataType :	IDENTIFIER
+	position :	(13, 10)
+}
+{
+	content  :	name
+	dataType :	IDENTIFIER
+	position :	(13, 17)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(13, 21)
+}
+{
+	content  :	{
+	dataType :	PUNCTUATOR
+	position :	(14, 1)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(15, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(15, 6)
+}
+{
+	content  :	file_name
+	dataType :	IDENTIFIER
+	position :	(15, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(15, 18)
+}
+{
+	content  :	name
+	dataType :	IDENTIFIER
+	position :	(15, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(15, 24)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(16, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(16, 6)
+}
+{
+	content  :	file_input
+	dataType :	IDENTIFIER
+	position :	(16, 8)
+}
+{
+	content  :	.
+	dataType :	PUNCTUATOR
+	position :	(16, 18)
+}
+{
+	content  :	open
+	dataType :	IDENTIFIER
+	position :	(16, 19)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(16, 23)
+}
+{
+	content  :	name
+	dataType :	IDENTIFIER
+	position :	(16, 24)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(16, 28)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(16, 29)
+}
+{
+	content  :	if
+	dataType :	KEYWORD
+	position :	(17, 2)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(17, 5)
+}
+{
+	content  :	file_input
+	dataType :	IDENTIFIER
+	position :	(17, 6)
+}
+{
+	content  :	.
+	dataType :	PUNCTUATOR
+	position :	(17, 16)
+}
+{
+	content  :	is_open
+	dataType :	IDENTIFIER
+	position :	(17, 17)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(17, 24)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(17, 25)
+}
+{
+	content  :	==
+	dataType :	PUNCTUATOR
+	position :	(17, 27)
+}
+{
+	content  :	false
+	dataType :	IDENTIFIER
+	position :	(17, 30)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(17, 35)
+}
+{
+	content  :	{
+	dataType :	PUNCTUATOR
+	position :	(18, 2)
+}
+{
+	content  :	cout
+	dataType :	IDENTIFIER
+	position :	(19, 3)
+}
+{
+	content  :	<<
+	dataType :	PUNCTUATOR
+	position :	(19, 8)
+}
+{
+	content  :	open
+	dataType :	IDENTIFIER
+	position :	(20, 3)
+}
+{
+	content  :	" << endl << "
+	dataType :	STRING
+	position :	(20, 7)
+}
+{
+	content  :	test
+	dataType :	IDENTIFIER
+	position :	(20, 21)
+}
+{
+	content  :	cout
+	dataType :	IDENTIFIER
+	position :	(21, 3)
+}
+{
+	content  :	<<
+	dataType :	PUNCTUATOR
+	position :	(21, 8)
+}
+{
+	content  :	"wrongopen"
+	dataType :	STRING
+	position :	(21, 11)
+}
+{
+	content  :	<<
+	dataType :	PUNCTUATOR
+	position :	(22, 9)
+}
+{
+	content  :	endl
+	dataType :	IDENTIFIER
+	position :	(22, 12)
+}
+{
+	content  :	<<
+	dataType :	PUNCTUATOR
+	position :	(22, 17)
+}
+{
+	content  :	"test"
+	dataType :	STRING
+	position :	(22, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(22, 26)
+}
+{
+	content  :	return
+	dataType :	KEYWORD
+	position :	(23, 3)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(23, 9)
+}
+{
+	content  :	}
+	dataType :	PUNCTUATOR
+	position :	(24, 2)
+}
+{
+	content  :	buffer
+	dataType :	IDENTIFIER
+	position :	(25, 2)
+}
+{
+	content  :	.
+	dataType :	PUNCTUATOR
+	position :	(25, 8)
+}
+{
+	content  :	clear
+	dataType :	IDENTIFIER
+	position :	(25, 9)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(25, 14)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(25, 15)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(25, 16)
+}
+{
+	content  :	//清空缓存区
+	dataType :	NOTE
+	position :	(25, 20)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(27, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(27, 6)
+}
+{
+	content  :	char_count
+	dataType :	IDENTIFIER
+	position :	(27, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(27, 19)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(27, 21)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(27, 22)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(28, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(28, 6)
+}
+{
+	content  :	row_count
+	dataType :	IDENTIFIER
+	position :	(28, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(28, 18)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(28, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(28, 21)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(29, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(29, 6)
+}
+{
+	content  :	col_count
+	dataType :	IDENTIFIER
+	position :	(29, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(29, 18)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(29, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(29, 21)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(30, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(30, 6)
+}
+{
+	content  :	word_count
+	dataType :	IDENTIFIER
+	position :	(30, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(30, 18)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(30, 19)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(30, 20)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(32, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(32, 6)
+}
+{
+	content  :	char_const_count
+	dataType :	IDENTIFIER
+	position :	(32, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(32, 25)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(32, 27)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(32, 28)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(33, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(33, 6)
+}
+{
+	content  :	error_count
+	dataType :	IDENTIFIER
+	position :	(33, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(33, 20)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(33, 22)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(33, 23)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(34, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(34, 6)
+}
+{
+	content  :	identifier_count
+	dataType :	IDENTIFIER
+	position :	(34, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(34, 25)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(34, 27)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(34, 28)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(35, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(35, 6)
+}
+{
+	content  :	punctuator_count
+	dataType :	IDENTIFIER
+	position :	(35, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(35, 25)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(35, 27)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(35, 28)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(36, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(36, 6)
+}
+{
+	content  :	noting_count
+	dataType :	IDENTIFIER
+	position :	(36, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(36, 21)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(36, 23)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(36, 24)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(37, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(37, 6)
+}
+{
+	content  :	string_count
+	dataType :	IDENTIFIER
+	position :	(37, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(37, 21)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(37, 23)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(37, 24)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(38, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(38, 6)
+}
+{
+	content  :	keyword_count
+	dataType :	IDENTIFIER
+	position :	(38, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(38, 22)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(38, 24)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(38, 25)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(39, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(39, 6)
+}
+{
+	content  :	num_count
+	dataType :	IDENTIFIER
+	position :	(39, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(39, 18)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(39, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(39, 21)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(40, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(40, 6)
+}
+{
+	content  :	pre_count
+	dataType :	IDENTIFIER
+	position :	(40, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(40, 18)
+}
+{
+	content  :	0
+	dataType :	NUMBER
+	position :	(40, 20)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(40, 21)
+}
+{
+	content  :	this
+	dataType :	IDENTIFIER
+	position :	(42, 2)
+}
+{
+	content  :	->
+	dataType :	PUNCTUATOR
+	position :	(42, 6)
+}
+{
+	content  :	is_hex
+	dataType :	IDENTIFIER
+	position :	(42, 8)
+}
+{
+	content  :	=
+	dataType :	PUNCTUATOR
+	position :	(42, 15)
+}
+{
+	content  :	false
+	dataType :	IDENTIFIER
+	position :	(42, 17)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(42, 22)
+}
+{
+	content  :	InitKeyWord
+	dataType :	IDENTIFIER
+	position :	(44, 2)
+}
+{
+	content  :	(
+	dataType :	PUNCTUATOR
+	position :	(44, 13)
+}
+{
+	content  :	)
+	dataType :	PUNCTUATOR
+	position :	(44, 14)
+}
+{
+	content  :	;
+	dataType :	PUNCTUATOR
+	position :	(44, 15)
+}
+{
+	content  :	}
+	dataType :	PUNCTUATOR
+	position :	(45, 1)
+}
+
+Program Analysis Result:
+
+Total lines :	3
+Total chars : 	758
+Total words : 	167
+numbers :	20
+char_consts :	2
+strings :	3
+identifiers :	52
+keywords :	2
+punctuators :	77
+precompiles :	2
+notes :	2
+errors :	7
